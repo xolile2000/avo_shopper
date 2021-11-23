@@ -1,10 +1,30 @@
-body {
-	background-color: lightseagreen;
-	color: whitesmoke;
+
+body{
+	
+	background: linear-gradient(135deg,yellow,green);
+	color:black;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
 .container{
 	margin: auto;
 	width: 80%;
 }
+
+.shop{
+	padding: 20px;
+	font-size: large;
+}
+.btn{
+	font-size:large;
+	padding: 20px;
+}
+.list{
+	font-size:large;
+	padding-left:30px;
+	margin: 20px;
+}
+ul{
+    list-style-type: none; 
+   }
